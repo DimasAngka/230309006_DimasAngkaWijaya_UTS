@@ -16,6 +16,3 @@ Unit testing untuk Sistem Informasi Akademik (SIAKAD) menggunakan:
   - `GradeCalculator`: **100%**
   - `EnrollmentService`: **100%**
   - Overall: **72%**
-
-> ⚠️ Overall coverage dipengaruhi oleh class pendukung (`model`, `exception`) yang tidak diuji secara khusus.  
-> Target **80% berlaku per class yang diuji** — **sudah tercapai**.
