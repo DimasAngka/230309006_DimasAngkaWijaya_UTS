@@ -1,0 +1,12 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+siakad-testing,uts.dimas.nim230309006.model,CourseGrade,18,18,0,0,9,7,5,3,5,3
+siakad-testing,uts.dimas.nim230309006.model,Student,48,28,0,0,19,13,8,8,8,8
+siakad-testing,uts.dimas.nim230309006.model,Course,64,33,2,0,23,14,10,8,9,8
+siakad-testing,uts.dimas.nim230309006.model,Enrollment,24,32,0,0,9,15,3,9,3,9
+siakad-testing,uts.dimas.nim230309006.service,GradeCalculator,0,167,0,42,0,33,0,25,0,4
+siakad-testing,uts.dimas.nim230309006.service,EnrollmentService,0,185,0,18,0,46,0,14,0,5
+siakad-testing,uts.dimas.nim230309006.exception,EnrollmentException,5,4,0,0,2,2,1,1,1,1
+siakad-testing,uts.dimas.nim230309006.exception,CourseNotFoundException,5,4,0,0,2,2,1,1,1,1
+siakad-testing,uts.dimas.nim230309006.exception,CourseFullException,5,4,0,0,2,2,1,1,1,1
+siakad-testing,uts.dimas.nim230309006.exception,StudentNotFoundException,5,4,0,0,2,2,1,1,1,1
+siakad-testing,uts.dimas.nim230309006.exception,PrerequisiteNotMetException,5,4,0,0,2,2,1,1,1,1
